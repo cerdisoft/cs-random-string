@@ -2,9 +2,9 @@
 A module that returns alphanumeric strings
 
 ## HOW TO INSTALL
-#npm install cs-random-string --save
+# npm install cs-random-string --save
 
-##HOW TO USE
+## HOW TO USE
 var random = require('cs-random-string');
 
 ```javascript
